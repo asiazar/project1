@@ -1,0 +1,81 @@
+.jumbotron {
+    text-align: center;
+    background: none;
+}
+
+.sectionLight {
+    background-color: papayawhip;
+    padding: 2em;
+}
+
+.sectionDark {
+    background-color: gainsboro;
+    padding: 2rem;
+}
+
+.coolWrapper {
+    margin-top: 20px;
+}
+
+button.coolStuffbtn:hover {
+    cursor: pointer;
+} 
+
+button.coolStuffbtn {
+    background-color: aquamarine;
+    color: black;
+    display: block;
+    margin: auto;
+}
+
+h5.modal-title {
+    margin: auto;
+}
+
+.modal-header .close {
+    margin: -15px;
+}
+
+.modalWrapper {
+    padding: 2rem;
+}
+
+.imgCenter {
+    display: block;
+    margin: auto;
+}
+
+.btnCenter {
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width: 54%;
+}
+
+.footerImg {
+    padding: 15px;
+}
+
+footer.footer {
+    background-color: black;
+}
+
+.fa {
+    margin: 10px;
+}
+.fa-facebook-square {
+    color: dodgerblue;
+}
+
+.fa-google-plus-square {
+    color: crimson;
+}
+
+.fa-instagram {
+    color: white;
+}
+
+.socialWrapper {
+    margin: auto;
+}
